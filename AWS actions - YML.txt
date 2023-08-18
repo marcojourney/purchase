@@ -1,0 +1,32 @@
+Sure, here are some of the AWS actions that you should know that you can use in aws.yml:
+
+* **configure-aws-credentials@v1:** This action is used to configure the AWS credentials for the current shell.
+* **ecs-cli-setup@v1:** This action is used to install the AWS CLI and the ECS CLI.
+* **ecs-run-task@v1:** This action is used to run a task in an ECS cluster.
+* **ecs-create-service@v1:** This action is used to create an ECS service.
+* **ecs-describe-services@v1:** This action is used to describe ECS services.
+* **ecs-scale-service@v1:** This action is used to scale an ECS service.
+* **ecs-stop-task@v1:** This action is used to stop an ECS task.
+* **ecs-delete-service@v1:** This action is used to delete an ECS service.
+
+These are just a few of the many AWS actions that you can use in aws.yml. For a complete list of AWS actions, you can refer to the AWS documentation: https://docs.aws.amazon.com/cli/latest/reference/.
+
+AWS uses AWS Actions to automate common tasks in the AWS Cloud. AWS Actions are pre-built, reusable scripts that can be used to perform tasks such as configuring AWS credentials, running AWS CLI commands, and deploying applications to AWS.
+
+AWS Actions can be used in a variety of ways, including:
+
+* **Automating CI/CD pipelines:** AWS Actions can be used to automate CI/CD pipelines, which are used to build, test, and deploy applications to AWS.
+* **Automating batch jobs:** AWS Actions can be used to automate batch jobs, which are used to run large-scale, time-consuming tasks.
+* **Automating infrastructure provisioning:** AWS Actions can be used to automate infrastructure provisioning, which is the process of creating and configuring AWS resources.
+* **Automating security tasks:** AWS Actions can be used to automate security tasks, such as configuring security groups and IAM roles.
+
+AWS Actions are a powerful tool that can be used to automate common tasks in the AWS Cloud. They can help you to save time and effort, and to improve the reliability and security of your applications.
+
+Here are some of the benefits of using AWS Actions:
+
+* **Reusable:** AWS Actions are reusable, which means that you can use them over and over again. This can save you time and effort.
+* **Consistent:** AWS Actions are consistent, which means that they will always work the same way. This can help you to avoid errors.
+* **Secure:** AWS Actions are secure, which means that they are protected from unauthorized access.
+* **Scalable:** AWS Actions are scalable, which means that they can be used to automate tasks that involve a large number of AWS resources.
+
+If you are looking to automate common tasks in the AWS Cloud, then AWS Actions are a good option to consider.
